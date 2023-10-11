@@ -1,1 +1,2 @@
 # ESG_Exploratory_Data_Analysis
+This exploratory data analysis (EDA) delves into a comprehensive assessment of Environmental, Social, and Governance (ESG) scores spanning the years 2000 to 2022. ESG scores serve as a pivotal indicator of a company's commitment to sustainability and responsible business practices, encompassing key aspects such as environmental impact, social responsibility, and governance standards.
